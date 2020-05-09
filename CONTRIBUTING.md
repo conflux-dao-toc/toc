@@ -4,7 +4,7 @@
 
 
 
-如果您有兴趣向Conflux DAO技术社区提交议案，请在此开辟议题讨论：https://github.com/Conflux-DAO-TOC/toc/issues。
+如果您有兴趣向Conflux DAO技术社区提交议案，请在此开辟议题讨论：https://github.com/Conflux-DAO-TOC/toc/issues
 
 
 
