@@ -9,7 +9,7 @@ Conflux DAO TOC是基于世界级开源公链Conflux基石上建立的社区技�
 接受终端用户委员会的反馈，并将其映射到项目中。
 协调管理下的组件的接口(标准化前的代码参考实现)，如果有的话，确定在Conflux项目中实施的共同做法；
 
-
+![](/Users/xiaods/Documents/code/conflux-toc/img/toc-announce.png)
 
 ## Members
 

@@ -1,6 +1,6 @@
 # 项目状态和成熟度级别
 
-![graphic-chasm-3-02](/Users/xiaods/Desktop/graphic-chasm-3-02.svg)
+![graphic-chasm-3-02](./img/graphic-chasm-3-02.svg)
 
 ## 沙箱项目（1人项目就可以申请收录）
 
