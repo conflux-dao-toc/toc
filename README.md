@@ -43,7 +43,7 @@ TOC每月第一个星期二晚上8点（中国北京时区）举行会议。项�
 
 - **SIG-DAPP** (Leader: 招募中)
 
-- **SIG-Conflux-Rust** （Leader: Tommy Xiao）
+- [**SIG-Conflux-Rust**](https://github.com/Conflux-DAO-TOC/sig-conflux-rust) （Leader: Tommy Xiao）
 - **SIG-Wallet** (Leader: 招募中)
 - **SIG-Docs** (Leader: 招募中)
 
