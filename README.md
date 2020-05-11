@@ -13,7 +13,9 @@ Conflux DAO TOC是基于世界级开源公链Conflux基石上建立的社区技�
 
 ## Members
 
-- **Xiao Deshi** (term: 1 years - start date: 5/8/2020 - 5/8/2021) [TOC-appointed]
+- [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 5/8/2020 - 5/8/2021) [TOC-appointed]
+- [Frank Jin](https://github.com/Conflux-DAO-TOC/toc/issues/4)  (term: 1 years - start date: 6/8/2020 - 6/8/2021) [TOC-appointed]
+- [三豐@HZ](https://github.com/Conflux-DAO-TOC/toc/issues/5) (term: 1 years - start date: 11/8/2020 - 11/8/2021) [TOC-appointed]
 
 
 
@@ -41,7 +43,7 @@ TOC每月第一个星期二晚上8点（中国北京时区）举行会议。项�
 
 - **SIG-DAPP** (Leader: 招募中)
 
-- **SIG-Conflux-Rust** （Leader: 招募中）
+- **SIG-Conflux-Rust** （Leader: Tommy Xiao）
 - **SIG-Wallet** (Leader: 招募中)
 - **SIG-Docs** (Leader: 招募中)
 
