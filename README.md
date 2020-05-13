@@ -13,10 +13,11 @@ Conflux DAO TOC是基于世界级开源公链Conflux基石上建立的社区技�
 
 ## Members
 
-- [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 5/8/2020 - 5/8/2021) [TOC-appointed]
-- [Frank Jin](https://github.com/Conflux-DAO-TOC/toc/issues/4)  (term: 1 years - start date: 6/8/2020 - 6/8/2021) [TOC-appointed]
-- [三豐@HZ](https://github.com/Conflux-DAO-TOC/toc/issues/5) (term: 1 years - start date: 11/8/2020 - 11/8/2021) [TOC-appointed]
-- [Elliot Ning](https://github.com/elliot2008) (term: 1 years - start date: 11/8/2020 - 11/8/2021) [TOC-appointed]
+- [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
+- [Frank Jin](https://github.com/Conflux-DAO-TOC/toc/issues/4)  (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
+- [三豐@HZ](https://github.com/Conflux-DAO-TOC/toc/issues/5) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed]
+- [Elliot Ning](https://github.com/elliot2008) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed]
+- [xiaolong](https://github.com/yepengjun)(term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
 
 
 
