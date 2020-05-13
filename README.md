@@ -43,10 +43,9 @@ TOC每月第一个星期二晚上8点（中国北京时区）举行会议。项�
 旨在推广区块链各项技术的研究和实验下需求，由社区成员提议组建，小组成员不得少于3人。
 
 - **SIG-DAPP** (Leader: 招募中)
-
 - [**SIG-Conflux-Rust**](https://github.com/Conflux-DAO-TOC/sig-conflux-rust) （Leader: Tommy Xiao）
 - **SIG-Wallet** (Leader: 招募中)
-- **SIG-Docs** (Leader: 招募中)
+- [**SIG-Docs**](https://github.com/Conflux-DAO-TOC/sig-docs) (Leader: [gavin](https://github.com/cryptocurrencyquant))
 
 
 
