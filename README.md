@@ -4,10 +4,14 @@
 
 Conflux DAO TOC是基于世界级开源公链Conflux基石上建立的社区技术管理机构。它接受和监督Conflux技术社区的所有项目，并负责推动达成中立的共识。
 
-定义和维护Conflux DAO技术社区的技术愿景。
-在技术委员会确定的DAO范围内批准新项目，并建立项目的概念架构，调整项目，删除或归档项目。
-接受终端用户委员会的反馈，并将其映射到项目中。
-协调管理下的组件的接口(标准化前的代码参考实现)，如果有的话，确定在Conflux项目中实施的共同做法；
+- 定义和维护Conflux DAO技术社区的技术愿景。
+- 在技术委员会确定的DAO范围内批准新项目，并建立项目的概念架构，调整项目，删除或归档项目。
+- 接受终端用户委员会的反馈，并将其映射到项目中。
+- 协调管理下的组件的接口(标准化前的代码参考实现)，如果有的话，确定在Conflux项目中实施的共同做法。
+
+Conflux技术社区治理政策如下：
+
+1. [技术社区委员会的目标和基金会的协作支持](./policy.md)
 
 
 
@@ -16,9 +20,10 @@ Conflux DAO TOC是基于世界级开源公链Conflux基石上建立的社区技�
 - [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
 - [Frank Jin](https://github.com/Conflux-DAO-TOC/toc/issues/4)  (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
 - [三豐@HZ](https://github.com/Conflux-DAO-TOC/toc/issues/5) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed]
-- [Elliot Ning](https://github.com/elliot2008) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed]
-- [xiaolong](https://github.com/yepengjun) (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
-- [youyou](https://github.com/xiaozhu001) (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
+- [Elliot Ning](https://github.com/Conflux-DAO-TOC/toc/issues/6) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed]
+- [xiaolong](https://github.com/Conflux-DAO-TOC/toc/issues/7) (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
+- [youyou](https://github.com/Conflux-DAO-TOC/toc/issues/8) (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
+- [lm](https://github.com/Conflux-DAO-TOC/toc/issues/9)  (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
 
 
 
@@ -44,9 +49,8 @@ TOC每月第一个星期二晚上8点（中国北京时区）举行会议。项�
 
 旨在推广区块链各项技术的研究和实验下需求，由社区成员提议组建，小组成员不得少于3人。
 
-- **SIG-DAPP** (Leader: 招募中)
-- [**SIG-Conflux-Rust**](https://github.com/Conflux-DAO-TOC/sig-conflux-rust) （Leader: Tommy Xiao）
-- **SIG-Wallet** (Leader: 招募中)
+- [**SIG-DAPP**](https://github.com/Conflux-DAO-TOC/sig-dapp) (Leader: [lm](https://github.com/calmlism))
+- [**SIG-Conflux-Rust**](https://github.com/Conflux-DAO-TOC/sig-conflux-rust) （Leader: [Tommy Xiao](https://github.com/xiaods)）
 - [**SIG-Docs**](https://github.com/Conflux-DAO-TOC/sig-docs) (Leader: [gavin](https://github.com/cryptocurrencyquant))
 
 
