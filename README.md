@@ -53,6 +53,7 @@ TOC每月第一个星期二晚上8点（中国北京时区）举行会议。项�
 - [**SIG-DAPP**](https://github.com/Conflux-DAO-TOC/sig-dapp) (Leader: [lm](https://github.com/calmlism))
 - [**SIG-Conflux-Rust**](https://github.com/Conflux-DAO-TOC/sig-conflux-rust) （Leader: [Tommy Xiao](https://github.com/xiaods)）
 - [**SIG-Docs**](https://github.com/Conflux-DAO-TOC/sig-docs) (Leader: [gavin](https://github.com/cryptocurrencyquant))
+- [SIG-DeFi](https://github.com/Conflux-DAO-TOC/sig-defi) (Leader: 元杰)
 
 
 
