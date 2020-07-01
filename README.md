@@ -36,8 +36,9 @@ Conflux技术社区治理政策如下：
 请看[这里](./CONTRIBUTING.md)的项目贡献流程。如果您有任何问题或不知道从哪里开始，请打开一个[问题](https://github.com/Conflux-DAO-TOC/toc/issues)。
 
 - [Conflux 技术社区生态项目申请孵化原则](https://shimo.im/docs/xd6Ww93yJpTKwjHT)
+- [Conflux技术委员会历史决策记录](https://shimo.im/sheets/2wAlXKLO8osRQbAP/MODOC)
 - [2020年第三季度技术社区生态项目申请计划表](https://shimo.im/sheets/qkXCJp3DPkydtCjt/MODOC)
-
+- [2020年Conflux技术社区生态项目计划公示表](https://shimo.im/sheets/KrkEVJQv2vUyNpAJ/MODOC)
 
 
 ## Meeting Time
