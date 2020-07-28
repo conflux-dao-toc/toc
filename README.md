@@ -39,7 +39,7 @@ Conflux技术社区治理政策如下：
 - [Conflux技术委员会历史决策记录](https://forum.conflux.fun/t/topic/1124)
 - [2020年第三季度技术社区生态项目申请计划表(弃用)](https://shimo.im/sheets/qkXCJp3DPkydtCjt/MODOC)
 - [2020年Conflux技术社区生态项目计划公示表(弃用)](https://shimo.im/sheets/KrkEVJQv2vUyNpAJ/MODOC)
-- [Conflux技术社区生态项目公示交流论坛](https://forum.conflux.fun/c/Ecology)
+- [Conflux技术社区生态项目公示交流论坛](https://forum.conflux.fun/c/38-category/Ecology)
 
 
 ## Meeting Time
