@@ -25,7 +25,7 @@ Conflux技术社区治理政策如下：
 - [lm](https://github.com/Conflux-DAO-TOC/toc/issues/9)  (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
 - [Funny](https://github.com/Conflux-DAO-TOC/toc/issues/11) (term: 1 years - start date: 2020/5/22 - 2021/5/22) [TOC-appointed]
 - [chy](https://github.com/Conflux-DAO-TOC/toc/issues/10)  (term: 1 years - start date: 2020/5/14 - 2021/5/14) [TOC-appointed]
-
+- [dandan (郄建军)](https://github.com/Conflux-DAO-TOC/toc/issues/13) (term: 1 years - start date: 2020/9/8 - 2021/9/9) [TOC-appointed]
 
 ## Projects
 
