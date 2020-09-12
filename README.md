@@ -20,13 +20,11 @@ Conflux技术社区治理政策如下：
 - [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
 - [Frank Jin](https://github.com/Conflux-DAO-TOC/toc/issues/4)  (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
 - [三豐@HZ](https://github.com/Conflux-DAO-TOC/toc/issues/5) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed]
-- [Elliot Ning](https://github.com/Conflux-DAO-TOC/toc/issues/6) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed] 离任
 - [xiaolong](https://github.com/Conflux-DAO-TOC/toc/issues/7) (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
 - [youyou](https://github.com/Conflux-DAO-TOC/toc/issues/8) (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
 - [lm](https://github.com/Conflux-DAO-TOC/toc/issues/9)  (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
 - [Funny](https://github.com/Conflux-DAO-TOC/toc/issues/11) (term: 1 years - start date: 2020/5/22 - 2021/5/22) [TOC-appointed]
 - [chy](https://github.com/Conflux-DAO-TOC/toc/issues/10)  (term: 1 years - start date: 2020/5/14 - 2021/5/14) [TOC-appointed]
-
 
 
 ## Projects
