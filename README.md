@@ -16,8 +16,6 @@ Conflux技术社区治理政策如下：
 
 
 ## Members
-
-- [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
 - [Frank Jin](https://github.com/Conflux-DAO-TOC/toc/issues/4)  (term: 1 years - start date: 2020/5/8 - 2021/5/8) [TOC-appointed]
 - [三豐@HZ](https://github.com/Conflux-DAO-TOC/toc/issues/5) (term: 1 years - start date: 2020/5/11 - 2021/5/11) [TOC-appointed]
 - [xiaolong](https://github.com/Conflux-DAO-TOC/toc/issues/7) (term: 1 years - start date: 2020/5/13 - 2021/5/13) [TOC-appointed]
@@ -28,6 +26,11 @@ Conflux技术社区治理政策如下：
 - [dandan (郄建军)](https://github.com/Conflux-DAO-TOC/toc/issues/13) (term: 1 years - start date: 2020/9/8 - 2021/9/9) [TOC-appointed]
 - [junhua(周军华)](https://github.com/Conflux-DAO-TOC/toc/issues/14) (term: 1 years - start date: 2020/10/13 - 2021/10/13) [TOC-appointed]
 - [Robin](https://github.com/Conflux-DAO-TOC/toc/issues/15) (term: 1 years - start date: 2020/10/13 - 2021/10/13) [TOC-appointed]
+- [Heisenberg](https://github.com/conflux-dao-toc/toc/issues/16) (term: 1 years - start date: 2021/4/1 - 2022/4/1) [TOC-appointed]
+
+## 退休委员
+
+- [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 2020/5/8 - 2021/4/1) [TOC-appointed]
 
 ## Projects
 
