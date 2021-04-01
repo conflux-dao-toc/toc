@@ -30,7 +30,7 @@ Conflux技术社区治理政策如下：
 
 ## 退休委员
 
-- [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 2020/5/8 - 2021/4/1) [TOC-appointed]
+- [Tommy Xiao](https://github.com/Conflux-DAO-TOC/toc/issues/2) (term: 1 years - start date: 2020/5/8 - 2021/4/1) [TOC-retired]
 
 ## Projects
 
